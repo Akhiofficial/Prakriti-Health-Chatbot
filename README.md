@@ -18,7 +18,7 @@ A modern, interactive health and wellness chatbot that provides personalized hea
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://your-github-username.github.io/your-repo-name)
+[View Live Demo](https://github.com/Akhiofficial/Prakriti-Health-Chatbot.git)
 
 ## 🛠️ Technologies Used
 
@@ -40,7 +40,7 @@ A modern, interactive health and wellness chatbot that provides personalized hea
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Akhiofficial/Prakriti-Health-Chatbot.git
 ```
 
 2. Open `index.html` in your web browser
